@@ -18,7 +18,7 @@
     "build": "vite build",
     "preview": "vite preview"
   }
-  "homepage": "https://yourusername.github.io/ToolNest",
+  "homepage": "https://JadeShekh.github.io/testingtools/basictools",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
